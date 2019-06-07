@@ -1,8 +1,32 @@
 body {
-  background-color: lightblue;
+  background-color: lightblue; 
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
+  margin-bottom: 1px;
+  padding-top:1px;
 }
+
+h2 {
+	color: purple;
+}
+
+.category_table {
+	color: green;
+
+}
+
+#about {
+
+	color: grey;
+}
+
+
+
+/* SOMETHING IS OFF HERE
+table .category-table tr:nth-child(1) {
+font-weight: bold;
+}*/
+
