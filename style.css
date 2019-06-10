@@ -30,3 +30,14 @@ table .category-table tr:nth-child(1) {
 font-weight: bold;
 }*/
 
+@media (min-width: 500px) {
+    body {
+        background-color: orange;
+        }
+    }
+    @media (max-width: 499px) {
+    body {
+    	background-color: beige;
+     }
+}
+
