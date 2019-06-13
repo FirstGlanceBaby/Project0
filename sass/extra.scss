@@ -1,7 +1,8 @@
-$font-stack:    Helvetica, sans-serif;
+$font-stack:   Allan;
+;
 
 body {
-  font: 100% $font-stack;
+  font: 18px $font-stack;
 }
 
 nav {
@@ -19,6 +20,18 @@ nav {
     text-decoration: none;
   }
 }
+
+.foo {
+	color: black;
+	border: 1px solid back;
+}
+
+.bar {
+	@extend .foo;
+	background-color: red;
+}
+
+
 
 
 
