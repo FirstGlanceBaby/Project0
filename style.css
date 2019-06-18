@@ -12,7 +12,7 @@ img {
 }
 
 table {
-  margin-top: 10px;
+  margin-top: 18px;
 }
 
 table:a{
@@ -51,6 +51,15 @@ transform: scale(1.1);
 .category_table {
 	color: blue;
 
+}
+
+.alert{
+  margin-top: 10px;
+}
+
+.bar{
+  margin-top: 10px;
+  padding: 3px;
 }
 
 #about {
