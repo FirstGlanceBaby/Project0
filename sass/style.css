@@ -9,7 +9,6 @@ nav {
 img {
   margin-left: 15px;
   margin-bottom: 10px;
-  margin-top: 7px;
 }
 
 table {
@@ -28,6 +27,7 @@ h1 {
   font-size: 250%;
 }
 
+
 h2 {
 	color: purple;
 }
@@ -44,13 +44,13 @@ height:32px;
 font-size:14px;
 transition: all 0.2s ease-in-out;
 }
-
 button:hover {
 transform: scale(1.1);
 }
 
 .category_table {
 	color: blue;
+
 }
 
 .alert{
@@ -67,6 +67,13 @@ transform: scale(1.1);
 	color: grey;
 }
 
+
+
+/* SOMETHING IS OFF HERE
+table .category-table tr:nth-child(1) {
+font-weight: bold;
+}*/
+
 @media (min-width: 500px) {
     body {
         background-color: #f7c00c;
@@ -77,3 +84,5 @@ transform: scale(1.1);
     	background-color: beige;
      }
 }
+
+
