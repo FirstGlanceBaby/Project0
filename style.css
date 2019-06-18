@@ -2,12 +2,23 @@ body {
   background-color: lightblue; 
 }
 
+nav {
+  margin-left: 10px;
+}
+
+img {
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+
 h1 {
   color: navy;
   margin-left: 20px;
-  margin-bottom: 1px;
+  margin-bottom: 25px;
   padding-top:1px;
 }
+
 
 h2 {
 	color: purple;
@@ -19,6 +30,7 @@ background-color: #292D3E;
 border: 1px solid #1D9AF2;
 border-radius: 4px;
 padding: 0 15px;
+margin-bottom: 10px;
 cursor: pointer;
 height:32px;
 font-size:14px;
@@ -55,4 +67,5 @@ font-weight: bold;
     	background-color: beige;
      }
 }
+
 
