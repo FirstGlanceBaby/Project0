@@ -11,12 +11,20 @@ img {
   margin-bottom: 10px;
 }
 
+table {
+  margin-top: 10px;
+}
+
+table:a{
+  color: DarkBlue;
+}
 
 h1 {
   color: navy;
   margin-left: 20px;
-  margin-bottom: 25px;
+  margin-bottom: 15px;
   padding-top:1px;
+  font-size: 250%;
 }
 
 
@@ -41,7 +49,7 @@ transform: scale(1.1);
 }
 
 .category_table {
-	color: green;
+	color: blue;
 
 }
 
