@@ -67,7 +67,7 @@ font-weight: bold;
 
 @media (min-width: 500px) {
     body {
-        background-color: orange;
+        background-color: #f7c00c;
         }
     }
     @media (max-width: 499px) {
